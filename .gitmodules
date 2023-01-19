@@ -1,0 +1,15 @@
+[submodule "tiny-slsa-1"]
+	path = tiny-slsa-1
+	url = https://github.com/kokrui-at-bytedance/tiny-slsa-1.git
+[submodule "tiny-slsa-2"]
+	path = tiny-slsa-2
+	url = https://github.com/kokrui-at-bytedance/tiny-slsa-2.git
+[submodule "tiny-slsa-3"]
+	path = tiny-slsa-3
+	url = https://github.com/kokrui-at-bytedance/tiny-slsa-3.git
+[submodule "tiny-slsa-4"]
+	path = tiny-slsa-4
+	url = https://github.com/kokrui-at-bytedance/tiny-slsa-4.git
+[submodule "tiny-slsa-0"]
+	path = tiny-slsa-0
+	url = https://github.com/kokrui-at-bytedance/tiny-slsa-0.git
